@@ -2,7 +2,10 @@ node_modules
 dist
 docs/site/dist
 site-dist
+coverage
+.vite
 .DS_Store
 *.log
+*.tsbuildinfo
 .env
 .env.*
